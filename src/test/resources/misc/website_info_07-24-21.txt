@@ -1,0 +1,40 @@
+#********************************************************************************************
+THIS WEBSITE IS ONLY FOR TESTING PURPOSE. 
+DO NOT PROVIDE YOUR PERSONAL INFORMATION ANYWHERE ON THE WEBSITE.
+DO NOT ABUSE THE WEBSITE WITH TOO MANY REQUESTS. 
+YOUR IP WILL BE BLOCKED IF FOUND MISUSING THE WEBSITE.
+DO NOT SHARE THE WEBSITE DETAILS WITH OTHERS. THIS IS PURELY FOR YOUR OWN USAGE AND LEARNINGS.
+#********************************************************************************************
+
+URL: https://askomdch.com
+-> The website uses $ as the currency for all transactions. 
+
+SHIPPING
+-> Shipping cost is calculated based on the Shipping address.
+-> For US region, shipping cost is $5 (Tax is not applied to shipping cost)
+-> For non-US region, shipping cost is $10 (Tax is not applied to shipping cost)
+ 
+TAX
+-> Sales tax is applied for US region. The amount of tax is different for each US state and is as per the attached us_tax_rates.csv. 
+-> No tax is applied for non-US region.
+
+ORDER
+-> Order can be placed without an account as well as with a logged-in account.
+-> Account can be created from the Account page as well as while placing the order using the "Create an account?" link
+-> Login option is provided during checkout, if the customer is not already logged in.
+-> Order details can be viewed by visting the Accounts page
+-> Orders placed as a Guest cannot be viewed
+
+COUPONS
+-> Each coupon is applied on the full price and not on the discounted price. For e.g. If full price is $100. The off25 will give $25 off on $100. The btoff20 will give $20 off on $100. The final price will be $100 - $25 - $20 = 55$.
+
+off15: Gives 15% off. Cannot be clubbed with other coupons
+btoff20: 20% off only on the Blue TShirt (Product ID 1196). Cannot be used for any other product
+freeship: Gives free shipping
+offcart5: Gives flat $5 off on the entire cart.
+off25: Gives 25% off on entire store.
+
+ACCOUNT
+-> View orders
+-> Edit profile
+-> Edit Billing and Shipping address
